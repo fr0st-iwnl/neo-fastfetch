@@ -12,5 +12,5 @@
 
 # Configuration Details
 
-- Feel free to use my Neofetch configuration if you like it! I originally posted this for my personal use, but i'm happy to share it with others who might find it useful.
+- feel free to use my neofetch configuration if you like it :P. i originally posted this for my personal use but i'm happy to share it with others who might find it useful.
 - btw the neofetch picture is in the repo.
