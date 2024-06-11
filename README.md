@@ -13,4 +13,4 @@
 # Configuration Details
 
 - feel free to use my neofetch configuration if you like it :P. i originally posted this for my personal use but i'm happy to share it with others who might find it useful.
-- btw the neofetch picture is in the repo. (i recommend not using the picture because it's pretty buggy)
+- btw the neofetch picture is in the repo configured for Kitty Terminal. (i recommend not using the picture because it's pretty buggy)
