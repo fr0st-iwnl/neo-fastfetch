@@ -1,16 +1,23 @@
-# Neofetch Config Preview
+# neo-fastfetch
 
-<hr style="border: 1px solid black;">
 
- <p align="center">
-   <!--no images atm here-->
-  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/neofetch.png" alt="neofetch pic">
-</p>
+<div align="center"><table><tr><td>Neofetch</td><td>Fastfetch</td></tr><tr><td>
+<img src="https://raw.githubusercontent.com/fr0st-iwnl/assets/refs/heads/main/thumbnails/neofetch.png"/></td><td>
+<img src="https://raw.githubusercontent.com/fr0st-iwnl/assets/refs/heads/main/thumbnails/fastfetch.png"/></td></tr>
+</table></div>
 
 # Configuration Details
 
-- feel free to use my neofetch configuration if you like it :P. i originally posted this for my personal use but i'm happy to share it with others who might find it useful.
-- btw the neofetch picture is in the repo configured for Kitty Terminal.
+- Feel free to use my **Neofetch** and **Fastfetch** configurations if you like them!
+- Initially, I created these for my **personal setup**, but I'm happy to share them with others who might find them useful.
+- You can find all the **images** used for these configurations in the `pngs` folder of this repository.
+  
+## How to Use
+
+- Clone the repository and copy the desired config to your setup.
+- Customize further if you want to make it your own.
+
+<p align="center">
+  <em>Enjoy your system info!</em>
+</p>
